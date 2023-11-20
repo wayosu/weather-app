@@ -6,4 +6,4 @@ Simple Weather App with ReactJS and API OpenWeather
 
 ### OpenWeather Links
 
-- [https://openweathermap.org/]
+- https://openweathermap.org/
