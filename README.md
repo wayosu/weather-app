@@ -4,6 +4,7 @@ Simple Weather App with ReactJS and API OpenWeather
 
 ![App Screenshot](./screenshot-app.png)
 
-### OpenWeather Links
+### Links
 
-- https://openweathermap.org/
+- [Live site URL](https://weather-app-wayosu.vercel.app)
+- [OpenWeather site URL](https://openweathermap.org/)
